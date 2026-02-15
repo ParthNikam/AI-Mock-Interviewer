@@ -109,7 +109,7 @@ export default function QuestionsPage() {
   }
 
   return (
-    <div className="mx-auto max-w-7xl px-4 py-8">
+    <div className="mx-auto max-w-4xl px-4 py-8">
       <div className="mb-8">
         <h1 className="text-3xl font-bold mb-2">Interview Questions</h1>
         <p className="text-muted-foreground">
@@ -118,7 +118,7 @@ export default function QuestionsPage() {
       </div>
 
       {/* Filters */}
-      <div className="mb-6 flex flex-col sm:flex-row gap-4">
+      <div className="mb-6 flex flex-col sm:flex-row gap-2">
         <div className="flex-1">
           <Input
             placeholder="Search questions, companies, or roles..."
@@ -156,7 +156,7 @@ export default function QuestionsPage() {
             className="cursor-pointer hover:shadow-md transition-shadow duration-200"
             onClick={() => handleQuestionClick(question)}
           >
-            <CardHeader className="pb-3">
+            <CardHeader className="pb-1">
               <div className="flex items-start justify-between gap-4">
                 <div className="flex-1">
                   <CardTitle className="text-lg mb-2 leading-relaxed">
