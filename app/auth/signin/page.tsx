@@ -11,7 +11,9 @@ export default function SigninPage() {
   const router = useRouter()
 
   useEffect(() => {
+    console.log('Auth state:', { loading, user: user?.email })
     if (!loading && user) {
+      console.log('Redirecting to home...')
       router.replace('/')
     }
   }, [user, loading, router])

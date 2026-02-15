@@ -36,6 +36,7 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
   init()
 
   const { data: { subscription } } = supabase.auth.onAuthStateChange((_event, session) => {
+    console.log('Auth state changed:', { event: _event, hasSession: !!session, email: session?.user?.email })
     setSession(session ?? null)
     setUser(session?.user ?? null)
   })
@@ -50,7 +51,7 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
     await supabase.auth.signInWithOAuth({
       provider: "google",
       options: {
-        redirectTo: `https://ftcccpdlbefahxxizoej.supabase.co/auth/v1/callback?next=${encodeURIComponent(redirectTo)}`,
+        redirectTo: `${window.location.origin}/auth/callback?next=${encodeURIComponent(redirectTo)}`,
       },
     })
   }
