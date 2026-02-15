@@ -1,0 +1,179 @@
+{
+  "role_based_questions": [
+    {
+      "company": "Airbnb",
+      "question": "How would you improve host retention and listing quality on Airbnb without increasing supply incentives?",
+      "role": "Product Manager"
+    },
+    {
+      "company": "Meta (Instagram Reels)",
+      "question": "How would you increase meaningful creator monetization on Instagram Reels without hurting user experience?",
+      "role": "Growth Marketer"
+    },
+    {
+      "company": "Amazon",
+      "question": "How would you reduce cart abandonment during high-traffic events like Prime Day?",
+      "role": "Data Scientist"
+    },
+    {
+      "company": "YouTube (Shorts)",
+      "question": "How would you design a growth strategy for YouTube Shorts to compete more effectively with TikTok?",
+      "role": "Visionary Leader"
+    },
+    {
+      "company": "Uber",
+      "question": "How would you reduce driver churn in tier-2 Indian cities?",
+      "role": "Product Manager"
+    },
+    {
+      "company": "Spotify",
+      "question": "How would you increase paid conversion from free users on Spotify without increasing subscription price?",
+      "role": "Growth Marketer"
+    },
+    {
+      "company": "Google (Maps)",
+      "question": "How would you improve accuracy and freshness of small business data in emerging markets?",
+      "role": "Technical Architect"
+    },
+    {
+      "company": "Notion",
+      "question": "How would you redesign the onboarding flow for Notion to increase activation for first-time startup teams?",
+      "role": "Product Manager"
+    },
+    {
+      "company": "LinkedIn",
+      "question": "How would you improve quality of job matches for early-career professionals?",
+      "role": "Data Scientist"
+    },
+    {
+      "company": "Slack",
+      "question": "How would you increase daily active usage of Slack among cross-functional enterprise teams?",
+      "role": "Product Manager"
+    },
+    {
+      "company": "Stripe",
+      "question": "How would you simplify international expansion for small SaaS startups?",
+      "role": "Technical Architect"
+    },
+    {
+      "company": "Facebook Marketplace",
+      "question": "How would you improve trust and safety in marketplace transactions on Facebook Marketplace?",
+      "role": "Software Engineer"
+    },
+    {
+      "company": "Netflix",
+      "question": "How would you reduce churn after users finish a popular series?",
+      "role": "Data Scientist"
+    },
+    {
+      "company": "Apple (Apple Pay)",
+      "question": "How would you increase adoption of Apple Pay among small offline merchants in India?",
+      "role": "Growth Marketer"
+    },
+    {
+      "company": "Tesla",
+      "question": "How would you improve the in-car software update experience for non-technical users?",
+      "role": "Software Engineer"
+    },
+    {
+      "company": "OpenAI (ChatGPT API)",
+      "question": "How would you design a monetization model for OpenAI’s ChatGPT API targeting early-stage startups?",
+      "role": "Product Manager"
+    },
+    {
+      "company": "Swiggy",
+      "question": "How would you reduce late deliveries during peak dinner hours?",
+      "role": "Technical Architect"
+    },
+    {
+      "company": "Etsy",
+      "question": "How would you increase seller-side loyalty and repeat listings on Etsy?",
+      "role": "Product Manager"
+    },
+    {
+      "company": "Duolingo",
+      "question": "How would you improve long-term retention beyond the first 30 days?",
+      "role": "Data Scientist"
+    },
+    {
+      "company": "Canva",
+      "question": "How would you improve conversion from free trial to paid plans for Canva Pro?",
+      "role": "Growth Marketer"
+    },
+    {
+      "company": "Atlassian",
+      "question": "How would you redesign Jira’s architecture to support real-time collaboration at enterprise scale?",
+      "role": "Technical Architect"
+    },
+    {
+      "company": "Flipkart",
+      "question": "How would you design a system to predict and prevent warehouse stockouts during festive sales?",
+      "role": "Data Scientist"
+    },
+    {
+      "company": "Microsoft Teams",
+      "question": "How would you refactor the backend to handle 10x video traffic without degrading latency?",
+      "role": "Software Engineer"
+    },
+    {
+      "company": "Zomato",
+      "question": "How would you redesign incentive structures for delivery partners to balance cost and satisfaction?",
+      "role": "Product Manager"
+    },
+    {
+      "company": "Razorpay",
+      "question": "How would you design a fraud detection pipeline for real-time payment risk scoring?",
+      "role": "Data Scientist"
+    },
+    {
+      "company": "Salesforce",
+      "question": "How would you increase adoption of a newly launched enterprise AI feature?",
+      "role": "Growth Marketer"
+    },
+    {
+      "company": "Byju’s",
+      "question": "How would you restructure the customer success team to reduce churn in high-ticket courses?",
+      "role": "Customer Success Lead"
+    },
+    {
+      "company": "Tata Digital",
+      "question": "How would you build a long-term ecosystem strategy connecting payments, commerce, and lending?",
+      "role": "Visionary Leader"
+    },
+    {
+      "company": "Shopify",
+      "question": "How would you improve onboarding for first-time D2C founders launching stores?",
+      "role": "Product Manager"
+    },
+    {
+      "company": "Paytm",
+      "question": "How would you scale merchant acquisition in tier-3 cities with limited field sales teams?",
+      "role": "Growth Marketer"
+    },
+    {
+      "company": "HubSpot",
+      "question": "How would you design a unified data architecture across CRM, marketing, and support modules?",
+      "role": "Technical Architect"
+    },
+    {
+      "company": "Cred",
+      "question": "How would you identify and activate dormant high-value users?",
+      "role": "Data Scientist"
+    },
+    {
+      "company": "Freshworks",
+      "question": "How would you reduce time-to-resolution for enterprise support tickets?",
+      "role": "Customer Success Lead"
+    },
+    {
+      "company": "Nvidia",
+      "question": "How would you position next-generation AI chips for startups competing with hyperscalers?",
+      "role": "Visionary Leader"
+    },
+    {
+      "company": "Zoho",
+      "question": "How would you design an internal hiring strategy to attract world-class engineers without matching FAANG salaries?",
+      "role": "Human Resources"
+    }
+  ]
+}
